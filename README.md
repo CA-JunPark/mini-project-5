@@ -1,4 +1,4 @@
-# Mini Project IV – Deep Learning Classifier
+# Mini Project IV – CNN Image Classifier
 
 ## Problem description and motivation
 
